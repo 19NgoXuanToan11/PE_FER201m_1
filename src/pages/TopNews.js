@@ -1,11 +1,7 @@
 import React from "react";
 
 const TopNews = () => {
-    return (
-        <div>
+    return <div>This is TopNews</div>;
+};
 
-            This is TopNews
-        </div>
-    );
-}
 export default TopNews;
